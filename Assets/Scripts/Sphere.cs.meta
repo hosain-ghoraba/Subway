@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1ba3026a87a65b44fb69845423b5fe96
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - NormalTilePrefab: {fileID: 3566690819094683235, guid: 3a57720d0b79078429cc544e1c06c31c, type: 3}
+  - burningTilePrefab: {fileID: 7439310330283939265, guid: 1b737ebae368b494ab21c45b1d012d02, type: 3}
+  - supplyTilePrefab: {fileID: 164212450913939980, guid: 2288489ad491d714f9788046e9ef37c2, type: 3}
+  - boostTilePrefab: {fileID: 3597253749147710335, guid: d6a4d98a13ef81a409ff4762cecfed62, type: 3}
+  - stickyTilePrefab: {fileID: 2556770952741509288, guid: 99fa5bdf741c7fa4cb8d272a072b9276, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

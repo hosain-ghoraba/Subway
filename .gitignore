@@ -2,7 +2,6 @@
 # First part from https://github.com/github/gitignore/blob/master/Unity.gitignore
 # Parkerhill additions at the end
 
-Temp/
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
